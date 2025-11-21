@@ -1,0 +1,6 @@
+1987|Sueter|200|Para el frio
+19876|Vestido|500|Gala
+198765|Short|150|Deportivo
+1987654|Blusa|250|Para el verano
+19876543|Camisa|100|Para el verano
+198765432|Sudadera|230|Para el frio
